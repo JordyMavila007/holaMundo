@@ -28,6 +28,8 @@ public class Main {
         System.out.println("Hello and welcome!");
         System.out.println("nombre: " + nombre);
         System.out.println("edad: " + edad);
+        System.out.println("edad: " + edad);
+        System.out.println("edad: " + edad);
 
 
 
